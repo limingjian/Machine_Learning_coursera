@@ -1,5 +1,5 @@
 # Machine_Learning_coursera
-This repo is specially created for all the work done by me as a part of Coursera's Machine Learning Course.
+This repo is specially created for all the work done by me as a part of Coursera's Machine Learning Course(https://www.coursera.org/learn/machine-learning/home/welcome).
 
 I have studied the class from 11/4/2017~11/20/2017. you may find some differences from your class and please pay attention to these.
 
